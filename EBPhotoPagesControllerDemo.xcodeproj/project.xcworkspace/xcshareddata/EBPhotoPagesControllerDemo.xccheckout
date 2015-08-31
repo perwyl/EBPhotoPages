@@ -10,41 +10,29 @@
 	<string>EBPhotoPagesControllerDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>C49B8D97-0840-4E8C-9152-E989C9CB6CB6</key>
-		<string>https://github.com/EddyBorja/markovator.git</string>
-		<key>DDEB2F61-97E5-4C53-B7D6-BB1D7EB39610</key>
+		<key>196A2A964D58C9F674C4D04B94C9615F8500148A</key>
 		<string>https://github.com/EddyBorja/EBPhotoPages.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>EBPhotoPages/EBPhotoPagesControllerDemo.xcodeproj/project.xcworkspace</string>
+	<string>EBPhotoPagesControllerDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C49B8D97-0840-4E8C-9152-E989C9CB6CB6</key>
-		<string>../../..</string>
-		<key>DDEB2F61-97E5-4C53-B7D6-BB1D7EB39610</key>
+		<key>196A2A964D58C9F674C4D04B94C9615F8500148A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/EddyBorja/EBPhotoPages.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C49B8D97-0840-4E8C-9152-E989C9CB6CB6</string>
+	<string>196A2A964D58C9F674C4D04B94C9615F8500148A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>C49B8D97-0840-4E8C-9152-E989C9CB6CB6</string>
-			<key>IDESourceControlWCCName</key>
-			<string>CodeProjects</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DDEB2F61-97E5-4C53-B7D6-BB1D7EB39610</string>
+			<string>196A2A964D58C9F674C4D04B94C9615F8500148A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>EBPhotoPages</string>
 		</dict>
